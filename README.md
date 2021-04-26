@@ -4,9 +4,7 @@
 # Manali https://github.com/Manalijain-1698
 # Alint https://github.com/alintaantony
 
-
-gROUP PROJECT BY 
-
+# Project Specificatio document-copy
 
 
 Table of Contents
