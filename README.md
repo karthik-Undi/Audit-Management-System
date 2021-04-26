@@ -1,4 +1,10 @@
 # Audit-Management-system
+# Group 
+# Karthik https://github.com/karthik-Undi
+# Manali https://github.com/Manalijain-1698
+# Alint https://github.com/alintaantony
+
+
 gROUP PROJECT BY 
 
 
