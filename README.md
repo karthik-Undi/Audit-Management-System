@@ -1,10 +1,10 @@
 # Audit-Management-system
-# Group 
+# Contributors 
 # Karthik https://github.com/karthik-Undi
 # Manali https://github.com/Manalijain-1698
 # Alint https://github.com/alintaantony
 
-# Project Specificatio document-copy
+# Project Specification document-copy
 
 
 Table of Contents
